@@ -1,0 +1,54 @@
+{
+  "node": {
+    "7f841f49ecc3437787d25f1c69b441f8b4bde32c5c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/api/chat/route": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/api/chat/route": "rsc"
+      }
+    },
+    "7fa61ad660f9e85c02343c008a941932ae8c933176": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/api/chat/route": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/api/chat/route": "rsc"
+      }
+    },
+    "7ff94c537e8738f060756e52955d158e5a19219d37": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/api/chat/route": {
+          "moduleId": "(rsc)/./node_modules/.pnpm/next@15.2.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fkernel-main%2Flib%2Fe2b%2Futils.ts%22%2C%5B%7B%22id%22%3A%227f841f49ecc3437787d25f1c69b441f8b4bde32c5c%22%2C%22exportedName%22%3A%22killDesktop%22%7D%2C%7B%22id%22%3A%227fa61ad660f9e85c02343c008a941932ae8c933176%22%2C%22exportedName%22%3A%22getDesktopURL%22%7D%2C%7B%22id%22%3A%227ff94c537e8738f060756e52955d158e5a19219d37%22%2C%22exportedName%22%3A%22getDesktop%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/api/chat/route": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "zSWDWBhuR5jvTo6F//Y1JivqRm8dAyM5eGOFy8ed8uo="
+}
